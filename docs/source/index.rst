@@ -1,4 +1,4 @@
-Welcome to Joe's Docs 1.0!
+Welcome to Joe's Docs!
 ======================
 A place to demonstrate and experiment with creating *.rst documentation.
 
