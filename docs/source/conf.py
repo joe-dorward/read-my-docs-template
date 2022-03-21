@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Joe\'s Docs 1.0'
+project = 'Joe\'s Docs'
 copyright = '2022, Joe Dorward'
 author = 'Joe Dorward'
 
